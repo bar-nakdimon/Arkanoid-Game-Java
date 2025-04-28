@@ -26,7 +26,7 @@ The game includes custom 2D physics, collision detection, event-driven gameplay,
 
 ## Setup Instructions
 
-1. Download `biuoop-1.4.jar` from your course site.
+1. Download `biuoop-1.4.jar` from the course site.
 2. Place `biuoop-1.4.jar` in the root directory of the project.
 3. Open a terminal or PowerShell in the project folder.
 
