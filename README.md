@@ -18,7 +18,7 @@ The game includes custom 2D physics, collision detection, event-driven gameplay,
 ## Technologies
 - Java 17+
 - Object-Oriented Programming (OOP)
-- [biuoop-1.4.jar](https://course.biu.ac.il/) (Bar-Ilan University custom library for GUI and keyboard input)
+- biuoop-1.4.jar (Bar-Ilan University custom library for GUI and keyboard input)
 
 ## Requirements
 - Java JDK 17 or later
