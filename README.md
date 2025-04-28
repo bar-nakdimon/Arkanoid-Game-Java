@@ -3,6 +3,9 @@
 A 2D Arkanoid-style game developed in Java using Object-Oriented Programming (OOP) principles.
 The game includes custom 2D physics, collision detection, event-driven gameplay, real-time rendering, and user interaction via keyboard.
 
+![image](https://github.com/user-attachments/assets/aab32895-c1ee-4b27-9f67-a31524044dc6)
+
+
 ## Features
 - Custom 2D physics engine (geometry and collision detection)
 - Modular and event-driven game architecture
